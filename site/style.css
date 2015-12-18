@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding-right: 50px;
+  padding-left: 50px;
+  padding-top: 50px;
+  background-color: #f6f6f6;
+
+}
+
+h1 {
+  font-family: Helvetica;
+}
+
+h4 {
+
+  font-family: Helvetica;
+}
+
+hr
+{
+    border: 5px solid #000;
+}
+
+img {
+  padding: 20px;
+}
+
+a {
+  color: #000000;
+  font-family: Helvetica;
+  font-weight: bold;
+}
