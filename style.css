@@ -1,0 +1,18 @@
+body {
+	text-align: center;
+	border-top: 4px solid black;
+	border-bottom: 4px solid black;
+}
+h1 {
+	line-height: 0;
+	padding-bottom: 2rem;
+}
+nav {
+	padding-top: 2rem;
+}
+li {
+	display: inline-block;
+}
+hr {
+	width: 70%;
+}
