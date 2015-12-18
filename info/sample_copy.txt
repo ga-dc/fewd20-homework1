@@ -1,15 +1,17 @@
 
-Sample Content
 ——-
 
-ABOUT ME PAGE
+								<h1>ABOUT ME PAGE<h1/>,<nav>Portfolio<nav/>
+								<hi>JOE JOHNSON<HI/>
 
-I ENJOY LIFE AS A DEVELOPER
+									<img>   <img/>
 
-I'm Joe Johnson, a Developer based in NYC. I Have ten years of experience in the graphic design world, specializing in the creation of responsive websites.
+<h2>I ENJOY LIFE AS A DEVELOPER<h2/>
+
+<h1>I'm Joe Johnson, a Developer based in NYC. I Have ten years of experience in the graphic design world, specializing in the creation of responsive websites.<h1/>
 
 
-RESUME PAGE
+RelaxrESUME PAGE
 
 Experience
 				
