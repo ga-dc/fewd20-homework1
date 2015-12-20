@@ -1,3 +1,22 @@
-p {color:red;}
+body {
+    background-color: black;
+
+}
+
+p.one {
+    border-style: solid;
+    border-color: red;
+}
+
+p.solid {border-style: solid;}
+
+
+
+p {font-family: "Impact", Times, serif;
+	color:#0BA5D9}
+h1 {font-family: "Impact", Times, serif;
+	color:#0BA5D9;}
+h2 {font-family: "Impact", Times, serif;
+	color:#0BA5D9;}
 
 p span {color: purple;}
