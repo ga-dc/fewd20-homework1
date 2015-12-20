@@ -1,0 +1,27 @@
+body {
+	border:solid 5px;
+	padding-left: 1.5cm;
+	padding-right: 1.5cm;
+	padding-top: .5in;
+	padding-bottom: 2cm;
+	font-family: helvetica;}
+
+
+nav {text-align: center}
+
+h1 {
+	text-align: center;
+	color:#e6005c;}
+
+span.title {
+	font-weight: bold;
+	font-style: italic;
+	text-decoration: underline;}
+
+span.time{font-size: 12px}
+
+p {font-family: times new roman}
+
+h2 {color:#333399;}
+
+h3 {color:#333399;}
