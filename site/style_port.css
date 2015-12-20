@@ -11,7 +11,11 @@ nav {text-align: center}
 
 h1 {text-align: center}
 
-P span {
+span.title {
 	font-weight: bold;
 	font-style: italic;
+}
+span.time{
+	font-size: 12px
+	
 }
