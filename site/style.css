@@ -1,3 +1,17 @@
+<<<<<<< HEAD
 			p {
 				color:red;
 			}
+=======
+p {
+	color: red;
+}
+
+.greenparagraph {
+	color: blue;
+}
+
+p span {
+	color: #831FB5;
+}
+>>>>>>> ga-dc/master
