@@ -5,13 +5,13 @@ body {
 a {
   font-family: 'Lato', sans-serif;
   font-size: 18px;
-  color: #FFF;
+  color: #000;
   }
 
   h1 {
     font-family: 'Oswald', sans-serif;
-    font-size: 60px;
-    color: #FFF;
+    font-size: 50px;
+    color: #020D38;
     }
 
    h2 {
@@ -24,16 +24,8 @@ a {
       font-family: 'Lato', sans-serif;
       font-size: 18px;
       line-height: 1.5;
+      color: #000;
       }
-
-
-.joe_pic {
-   float: left;
-      margin-right: 5px;
-      margin-bottom: 10px;
-}
-
-.main_content {}
 
 .top_nav {
 background-color: #020D38;
@@ -45,23 +37,4 @@ text-align: center;
   background-color: #06259E;
   padding: 30px;
   text-align: center;
-}
-
-.portfolio_intro {
-  
-}
-
-.description {
-  margin-left: 20px;
-  margin-right: 40px;
-  margin-top: 50px;
-  margin-bottom: 50px;
-}
-
-.social_media {
-background-color: #020D38;
-padding-left: 40px;
-padding-top: 30px;
-padding-bottom: 50px
-
 }
