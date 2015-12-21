@@ -1,16 +1,51 @@
-
-img {
-		align: center;
+body {
+	padding: 20px;
+	text-align: center;
+	border-style: solid;
+	border-width: 3px;
+	border-color: purple;
 }
 
 p {
-		color: red;
+	color: purple;
+	font-family: helvetica;
+	padding: 30px;
 }
 
-p span {
+h3 {
+	font-size: 20px;
+	font-family: helvetica;
 	color: purple;
 }
 
-img {
-	align: center;
+h2 {
+	font-family: helvetica;
+	background-color: #bdbcc1;
+	font-size: 35px;
+}
+
+
+
+li{
+	text-align: left;
+	font-family: helvetica;
+	color: purple;
+}
+
+
+input {
+	border-width: 1px;
+	border-color: black;
+	padding: 10px;
+	font-size: 18px;
+}
+
+input[type="submit"] {
+	background: red;
+	color: white;
+	border: 0;
+}
+
+nav {
+	font-family: helvetica;
 }
