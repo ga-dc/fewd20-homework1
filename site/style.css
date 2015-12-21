@@ -1,0 +1,44 @@
+body{
+	font-family: Andale Mono;
+	background-color: #008B8B;
+	color:#FFFFE0;
+	Text-align:left;
+}
+
+h1{
+	text-align: center;
+	text-decoration: underline;
+	text-decoration: bold;
+}
+
+p.p1{
+	text-align: center;
+}
+
+h2{ 
+	text-decoration: underline;
+	text-align: center;
+}
+
+h3{
+	font-weight: 800;
+}
+
+h4{
+	font-style: italic;
+}
+
+h3, h4 {
+	display: inline;
+}
+
+nav{
+	text-align: center;
+}
+
+
+
+
+
+
+	
