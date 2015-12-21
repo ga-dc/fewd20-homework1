@@ -1,20 +1,16 @@
 body {
-    background-color: black;
+    background-color: black;}
 
-}
-
-p.one {
-    border-style: solid;
-    border-color: red;
-}
-
-p.solid {border-style: solid;}
+nav {text-align: center;
+	font-family: "Impact", Times, serif;
+	color: #BFD2D9;}
 
 
 
 p {font-family: "Impact", Times, serif;
 	color:#0BA5D9}
-h1 {font-family: "Impact", Times, serif;
+h1 {text-align: center;
+	font-family: "Impact", Times, serif;
 	color:#0BA5D9;}
 h2 {font-family: "Impact", Times, serif;
 	color:#0BA5D9;}
