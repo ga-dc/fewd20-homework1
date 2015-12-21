@@ -2,16 +2,26 @@ body {
     background-color: black;
 
 }
+
+nav {text-align: center;
+		font-family: "Impact", Times, serif;
+			color: #BFD2D9;}
+
 h1 {text-align: center;
 	font-family: "Impact", Times, serif;
-	color:#0BA5D9}
+		color:#0BA5D9
+			text-decoration: underline;}
+
+	h3 {text-align: center;
+			font-family: "Impact", Times, serif;
+				color:#0BA5D9}
 
 p {font-family: "Impact", Times, serif;
-	color:#0BA5D9}
+		color:#0BA5D9}
 
 	ul {font-family: "Impact", Times, serif;
-	color:#0BA5D9}
+		color:#0BA5D9}
 	
 	h2 {text-align: center;
-		font-family: "Impact", Times, serif;
-	color:#0BA5D9}
+			font-family: "Impact", Times, serif;
+				color:#0BA5D9}
