@@ -1,5 +1,7 @@
 body {
     background-color: black;
+    border-style: dotted;
+    border-color: white;
 
 }
 
