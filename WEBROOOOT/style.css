@@ -1,0 +1,93 @@
+nav {
+  font-style: arial, verdana, sans-serif;
+  font-size: 20px;
+  text-align: center;
+  text-decoration: bold;
+  color:black;
+}
+
+body {
+
+    background-image:url('FALLINSNOWE.gif');
+    background-size:100%;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    height:100%;
+    width:100%;
+}
+
+
+
+h1 { 
+    font-family:arial, verdana, sans-serif;
+    font-size: 70px;
+    text-align: center;
+    color: black;
+
+}
+
+h2 {
+   font-family: arial,verdana,sans-serif;
+   font-size: 48px;
+   color: black;
+   text-align: center;
+}
+
+h3 {
+  font-family: arial, verdana, sans-serif;
+  font-size: 18px;
+  color:black;
+  text-align: center;
+}
+
+p{
+   font-family: arial,verdana,sans-serif;
+   font-size: 14px;
+   color: #7FFF00;
+   text-align: center;
+}
+
+a:link {
+    text-decoration: bold;
+    color:black;
+
+}
+
+a:visited {
+    text-decoration: none;
+    color:#7FFF00;
+}
+
+a:hover {
+    text-decoration: underline;
+    color:#FF0000;
+}
+
+a:active {
+    text-decoration: underline;
+    color: #FF0000
+}
+
+.line-separator{
+
+height:1px;
+
+background:#717171;
+
+border-bottom:1px solid #313030;
+
+}
+
+li {
+  
+  display: inline-block;
+  margin: 0 10px;
+  font-family: arial, verdana, sans-serif;
+  font-size: 20px;
+  font-weight: lighter;
+  font-style: italic;
+  text-align: center;
+  text-decoration: overline;
+  color:black;
+
+}
